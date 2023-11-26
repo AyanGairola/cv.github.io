@@ -1,2 +1,2 @@
-# cv.github.io
-Personalised cv 
+# cv_clgProject
+a fun project made for college
